@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(181, 242, 137);
+}
+
+h1{
+    text-align: center;
+    color: #c5f67b;
+    background-color: #445001;
+    box-shadow: 10px 10px 5px rgb(150, 188, 103);
+}
+
+h2{
+    text-align: center;
+    color: #e3e329;
+    background-color: rgb(101, 155, 20);
+    box-shadow: 10px 10px 5px rgb(61, 88, 27);
+}
+
+a{
+    color: #436;
+}
+
+img{
+    border: 2px solid black;
+    border-radius: 5%;
+}
